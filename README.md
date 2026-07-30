@@ -27,6 +27,10 @@ Mathematics-
 - Monte Carlo Simulation
 - Statistical Modeling
 
+Contact me with my email: lucytripp23@gmail.com or my Linkedin: linkedin.com/in/lucytripp
+
+
+
 Libraries-
 - PyMC
 - NumPy
