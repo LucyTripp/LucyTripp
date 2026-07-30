@@ -1,7 +1,11 @@
-- Hi! I’m @LucyTripp
-- I’m currently studying applied mathematics at Brigham Young University.
-- I love peanut butter m&m's, tennis, and musicals.
-- You can reach me by email: lucytripp23@gmail.com
+Hi! I’m Lucy Tripp
+I'm an Applied Mathematics student at Brigham Young University with a concentration in Operations Research. I'm interested in optimization, Bayesian statistics, mathematical modeling, and using data to improve decision-making in healthcare and higher education.
+
+Currently working on:
+• Bayesian modeling with PyMC
+• Maximum likelihood estimation
+• Operations research and optimization
+• Healthcare operations research
 
 <!---
 LucyTripp/LucyTripp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
