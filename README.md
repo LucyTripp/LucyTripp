@@ -14,8 +14,11 @@ Featured Projects:
 - Bayesian Modeling with PyMC (Python)
 
 Technical Skills:
+
 Languages-
-Python • MATLAB
+- Python  
+- MATLAB
+- Mathematica 
 
 Mathematics-
 - Optimization
