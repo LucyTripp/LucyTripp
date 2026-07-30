@@ -2,10 +2,10 @@ Hi! I’m Lucy Tripp
 I'm an Applied Mathematics student at Brigham Young University with a concentration in Operations Research. I'm interested in optimization, Bayesian statistics, mathematical modeling, and using data to improve decision-making in healthcare and higher education.
 
 Currently working on:
-• Bayesian modeling with PyMC
-• Maximum likelihood estimation
-• Operations research and optimization
-• Healthcare operations research
+- Bayesian modeling with PyMC
+- Maximum likelihood estimation
+- Operations research and optimization
+- Healthcare operations research
 
 <!---
 LucyTripp/LucyTripp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
