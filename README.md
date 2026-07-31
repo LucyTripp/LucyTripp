@@ -1,5 +1,5 @@
-- Hi! I’m @LucyTripp
-- I’m currently studying applied mathematics at Brigham Young University.
+- Hi! I’m LucyTripp
+- I’m currently studying applied mathematics with an emphasis on operations research at Brigham Young University.
 - I love peanut butter m&m's, tennis, and musicals.
 - You can reach me by email: lucytripp23@gmail.com
 
