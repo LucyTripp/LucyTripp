@@ -9,6 +9,7 @@ Contact me with my email: lucytripp23@gmail.com or my Linkedin: linkedin.com/in/
 - Latent Class Maximum Likelihood Estimation (MATLAB)
 - Continuous Mixture Model Estimation (MATLAB)
 - Bayesian Modeling with PyMC (Python)
+- University Course Scheduling Optimization (Python)
 
 ## Technical Interests
 
